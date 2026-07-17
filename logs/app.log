@@ -1,0 +1,10 @@
+2026-07-17 03:03:26,873 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.0.2.2:5000
+2026-07-17 03:03:26,873 INFO [33mPress CTRL+C to quit[0m
+2026-07-17 03:03:26,879 INFO  * Restarting with watchdog (inotify)
+2026-07-17 03:03:27,438 WARNING  * Debugger is active!
+2026-07-17 03:03:27,438 INFO  * Debugger PIN: 410-104-712
+2026-07-17 03:03:28,231 INFO 127.0.0.1 - - [17/Jul/2026 03:03:28] "GET / HTTP/1.1" 200 -
+2026-07-17 03:03:28,242 INFO 127.0.0.1 - - [17/Jul/2026 03:03:28] "GET /api/health HTTP/1.1" 200 -
